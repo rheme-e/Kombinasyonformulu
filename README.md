@@ -1,0 +1,2 @@
+# Kombinasyonformulu
+Kombinasyon formülü
